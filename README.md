@@ -13,10 +13,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Doclab Desktop Demo](./public/porfolio.png "Demo")
-
 ```
 
 ### Contact
