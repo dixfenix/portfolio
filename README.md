@@ -1,36 +1,28 @@
-<div align='center'>
+<div align="center">
+  
+  <br />
+  <br />
 
-<h4> <a href=https://portfolio-nu-two-84.vercel.app/>View Demo</a> <span> · </span> <a href="https://github.com/dixfenix/https://github.com/dixfenix/portfolio/tree/main/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/dixfenix/https://github.com/dixfenix/portfolio/tree/main/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/dixfenix/https://github.com/dixfenix/portfolio/tree/main/issues"> Request Feature </a> </h4>
+  <h2 align="center">My - Portfolio Website</h2>
 
+  Portfolio <br />Responsive for all devices, build using React, CSS, and JavaScript.
+
+  <a href="https://portfolio-nu-two-84.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
+<br />
 
-- [About the Project](#star2-about-the-project)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
+### Demo Screeshots
 
+![Doclab Desktop Demo](./public/porfolio.png "Demo")
 
-## :star2: About the Project
+```
 
-## :wave: My portfolio
+### Contact
 
-<a href="https://github.com/dixfenix/portfolio/tree/main/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
+If you want to contact with me you can reach me at [Telegram](https://t.me/ahrorjon911).
 
+### License
 
-see `contributing.md` for ways to get started
-
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/dixfenix/portfolio/tree/main/blob/master/CODE_OF_CONDUCT.md)
-
-## :warning: License
-
-Distributed under the no License. See LICENSE.txt for more information.
-
-## :handshake: Contact
-
-Ahrorjon Turdiev - - ahrorjon91@gmail.com
-
-Project Link: [https://github.com/dixfenix/portfolio/tree/main](https://github.com/dixfenix/portfolio/tree/main)
+This project is **free to use** and does not contains any license.
