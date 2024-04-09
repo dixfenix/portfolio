@@ -35,8 +35,8 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
+        projectName: 'GRILLI restaurant',
+        projectDesc: 'Welcome to the online home of GRILLI, your ultimate destination for exquisite dining and culinary delights.',
         tags: ['HTML', 'CSS', 'JS'],
         code: 'https://dixfenix.github.io/grill/',
         demo: 'https://dixfenix.github.io/grill/',
