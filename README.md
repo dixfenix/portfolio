@@ -12,16 +12,3 @@
 </div>
 
 <br />
-
-```
-<div align="center">
-
-### Contact
-
-If you want to contact with me you can reach me at [Telegram](https://t.me/ahrorjon911).
-
-### License
-
-This project is **free to use** and does not contains any license.
-
-</div>
