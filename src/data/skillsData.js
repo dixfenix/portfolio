@@ -1,9 +1,10 @@
  export const skillsData = [
+    'MySQL',
+    'PostgreSQL',
+    'AWS',
+    'Firebase',
     'HTML',
     'CSS',
-    'Javascript',
-    'React',
-    'Next JS',
     'Docker',
     'Azure',
     'Typescript',
@@ -11,11 +12,9 @@
     'Canva',
     'MongoDB',
     'Tailwind',
-    'MySQL',
-    'PostgreSQL',
     'AWS',
-    'Firebase',
-    'Nginx'
+    'Nginx',
+    'Microsoft Office'
 
 ]
 
