@@ -2,8 +2,8 @@ import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
     name: 'Ahrorjon Turdiev',
-    title: "DevOps, QA Engineer",
-    desciption:"As a Quality Assurance (QA) Engineer, I specialize in ensuring the reliability, functionality, and usability of software products. With a keen eye for detail and a passion for delivering high-quality solutions, I excel in designing and implementing comprehensive test plans, conducting manual and automated testing, and identifying and resolving defects throughout the development lifecycle.",
+    title: "System Engineer",
+    desciption:"As a Systems Engineer is responsible for designing, implementing, and managing complex systems that integrate hardware, software, and network components. I ensure that all parts work together seamlessly to meet the needs of an organization. My duties often include systems analysis, architecture design, integration, and troubleshooting, as well as ensuring system security and efficiency. Systems Engineers also focus on scalability, reliability, and maintainability of systems.",
     image: 'https://avatars.githubusercontent.com/u/48005694?s=400&u=dded70acec22efdc183de435a8a8b5bc7ed0506a&v=4',
     resumePdf: resume
 }
